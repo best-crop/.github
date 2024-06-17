@@ -28,3 +28,11 @@ BEST-CROP brings together partners from around Europe:
 - NORDIC  SEED AS Denmark
 
 This GitHub repository will host all code and analysis code that is developed under BEST-CROP which we will release under an Apache 2.0 licence.
+
+## Germinate Data Templates
+
+Germinate Data Templates for easy data import into the [Germinate](https://ics.hutton.ac.uk/get-germinate) plant genetic resources database are available at: https://github.com/germinateplatform/germinate-data-templates.
+
+## Germinate Training Material
+
+Training material on the use of Germinate and its data templates is available at https://germinateplatform.github.io/germinate-training/.
