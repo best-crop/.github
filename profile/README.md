@@ -29,6 +29,8 @@ BEST-CROP brings together partners from around Europe:
 
 This GitHub repository will host all code and analysis code that is developed under BEST-CROP which we will release under an Apache 2.0 licence.
 
+## Data Management Plan (DMP)
+
 BEST-CROP has created a draft data management plan (DMP) that will be adapted and modified throughout the duration of the project. [You can access the DMP here](https://github.com/best-crop/.github/blob/main/profile/BEST-CROP%20D7.1.docx).
 
 ## Germinate Data Templates
