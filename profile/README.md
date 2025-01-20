@@ -29,6 +29,8 @@ BEST-CROP brings together partners from around Europe:
 
 This GitHub repository will host all code and analysis code that is developed under BEST-CROP which we will release under an Apache 2.0 licence.
 
+BEST-CROP has created a draft data management plan (DMP) that will be adapted and modified throughout the duration of the project. You can access the DMP here.
+
 ## Germinate Data Templates
 
 Germinate Data Templates for easy data import into the [Germinate](https://ics.hutton.ac.uk/get-germinate) plant genetic resources database are available at: https://github.com/germinateplatform/germinate-data-templates.
