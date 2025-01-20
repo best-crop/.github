@@ -40,3 +40,6 @@ Germinate Data Templates for easy data import into the [Germinate](https://ics.h
 ## Germinate Training Material
 
 Training material on the use of Germinate and its data templates is available at https://germinateplatform.github.io/germinate-training/.
+
+Our BEST-CROP GridScore training session recording is available on YouTube [https://www.youtube.com/watch?v=OwzDf4kxKH0](https://www.youtube.com/watch?v=OwzDf4kxKH0)
+Out BEST-CROP Introduction to Germinate Templates session recording is available on YouTube [https://www.youtube.com/watch?v=Nq6rKtTWDBU](https://www.youtube.com/watch?v=Nq6rKtTWDBU)
